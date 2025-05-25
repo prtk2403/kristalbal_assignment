@@ -1,6 +1,6 @@
 # Intelligent Inventory Management for Hotel Bar Operations
 
-**Developed by:** [Pratheek Nistala]("https://pratheek.tech")
+**Developed by:** Pratheek Nistala - https://pratheek.tech
 
 ## Table of Contents
 
